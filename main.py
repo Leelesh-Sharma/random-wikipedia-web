@@ -9,7 +9,7 @@ while True:
         continue
     elif search == 'y':
         summary = wikipedia.summary(random, sentences=5)
-        print(summary+"\n")
+        print("\n"+summary+"\n")
     else:
         continue
 
