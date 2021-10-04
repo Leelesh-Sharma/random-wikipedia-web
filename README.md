@@ -1,2 +1,3 @@
-# random wikipedia web
- 
+# Random wikiweb
+
+it uses a python library WIKIPEDIA.
